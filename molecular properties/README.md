@@ -21,12 +21,4 @@ python train_finetune.py --cuda YOUR_DEVICE --dataset DATASET_NAME --model_dir M
 ```
 
 ### Citation
-```bibtex
-@inproceedings{li2022geomgcl,
-  title={GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction},
-  author={Li, Shuangli and Zhou, Jingbo and Xu, Tong and Dou, Dejing and Xiong, Hui},
-  booktitle={Proceedings of the Thirty-Six AAAI Conference on Artificial Intelligence},
-  pages={4541-4549},
-  year={2022}
-}
-```
+Our work refer to (https://github.com/agave233/GeomGCL)
