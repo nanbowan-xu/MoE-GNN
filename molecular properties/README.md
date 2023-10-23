@@ -21,7 +21,6 @@ python train_finetune.py --cuda YOUR_DEVICE --dataset DATASET_NAME --model_dir M
 ```
 
 ### Citation
-If you find our work is helpful in your research, please consider citing our paper:
 ```bibtex
 @inproceedings{li2022geomgcl,
   title={GeomGCL: Geometric Graph Contrastive Learning for Molecular Property Prediction},
@@ -31,4 +30,3 @@ If you find our work is helpful in your research, please consider citing our pap
   year={2022}
 }
 ```
-If you have any question, please feel free to contact with me by email: lsl1997@mail.ustc.edu.cn.
