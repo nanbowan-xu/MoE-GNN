@@ -15,9 +15,6 @@ The downloaded dataset should be preprocessed to obtain features and spatial coo
 ``` python preprocess_pdbbind.py --data_path_core YOUR_DATASET_PATH --data_path_refined YOUR_DATASET_PATH --dataset_name pdbbind2016 --output_path YOUR_OUTPUT_PATH --cutoff 5 ```
 
 
-You can also try to use the processed data from [this link](https://www.dropbox.com/sh/68vc7j5cvqo4p39/AAB_96TpzJWXw6N0zxHdsppEa).
-Before training the model, please put the downloaded files into the directory (./data/).
-
 
 To train the model, you can run this command:
 
