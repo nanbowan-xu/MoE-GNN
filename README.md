@@ -22,5 +22,6 @@ Before training the model, please put the downloaded files into the directory (.
 To train the model, you can run this command:
 
 ```python train.py --cuda YOUR_DEVICE --model_dir MODEL_PATH_TO_SAVE --dataset pdbbind2016 --cut_dist 5 ```
+The molecular properties prediction task can be seen in the file [molecular properties prediction](https://github.com/nanbowan-xu/email/tree/main/molecular%20properties%20prediction)
 # Contact
-If your have any comments or questions, feel free to contact wanxu2021@email.szu.edu.cn
+If you have any comments or questions, feel free to contact wanxu2021@email.szu.edu.cn
