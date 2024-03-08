@@ -1,5 +1,5 @@
-# EMAIL
-EMAIL: Equivariant Message Attention Interaction Learning on Graphs for Drug Discovery
+# MoE-GNN
+A Mixture of Equivariant Graph Neural Networks for for Drug Discovery
 
 # Dependency
 The details can be seen ``` email.yaml```
